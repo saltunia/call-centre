@@ -1,0 +1,174 @@
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.addzayavka.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.energosbyt.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Form1.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.jaloby.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Main.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Otchet.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Properties.Resources.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCbyt.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCjaloby_obr.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCoper_zayavki.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCplanotkl.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpoiskumn.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpredr.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCprom.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCzayavka.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UC_otchet_zayavki.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.updzayavka.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraForm1.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport1.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.zayavka_nulltp.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.GenerateResource.Cache
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.licenses
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport2.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport3.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.config
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\bin\Debug\DXApplication4.pdb
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport4.resources
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.pdb
+C:\Users\saltanatk\Pictures\New folder\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csprojResolveAssemblyReference.cache
+C:\мои\28.02.2015\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.config
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.pdb
+C:\мои\28.02.2015\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe
+C:\мои\28.02.2015\DXApplication4\DXApplication4\bin\Debug\DXApplication4.pdb
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csprojResolveAssemblyReference.cache
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.addzayavka.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.energosbyt.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Form1.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.jaloby.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Main.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Otchet.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Properties.Resources.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCbyt.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCjaloby_obr.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCoper_zayavki.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCplanotkl.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpoiskumn.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpredr.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCprom.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCzayavka.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UC_otchet_zayavki.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.updzayavka.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraForm1.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport1.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport2.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport3.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport4.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.zayavka_nulltp.resources
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.GenerateResource.Cache
+C:\мои\28.02.2015\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.licenses
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.config
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.manifest
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\bin\Debug\DXApplication4.application
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\bin\Debug\DXApplication4.pdb
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.addzayavka.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.energosbyt.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Form1.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.jaloby.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Main.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Otchet.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Properties.Resources.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCbyt.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCjaloby_obr.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCoper_zayavki.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCplanotkl.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpoiskumn.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpredr.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCprom.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCzayavka.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UC_otchet_zayavki.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.updzayavka.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraForm1.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport1.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport2.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport3.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport4.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.zayavka_nulltp.resources
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.GenerateResource.Cache
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.licenses
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.TrustInfo.xml
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.manifest
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.application
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.pdb
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csprojResolveAssemblyReference.cache
+C:\мои\copy_Call_centre_new\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Sbyt.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.config
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.pdb
+C:\мои\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.manifest
+C:\мои\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.application
+C:\мои\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe
+C:\мои\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.pdb
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csprojResolveAssemblyReference.cache
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.addzayavka.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.energosbyt.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Form1.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.jaloby.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Main.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Otchet.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Properties.Resources.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Sbyt.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCbyt.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCjaloby_obr.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCoper_zayavki.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCplanotkl.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpoiskumn.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpredr.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCprom.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCzayavka.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UC_otchet_zayavki.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.updzayavka.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraForm1.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport1.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport2.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport3.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport4.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.zayavka_nulltp.resources
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.GenerateResource.Cache
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.licenses
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.TrustInfo.xml
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.manifest
+C:\мои\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.application
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csprojResolveAssemblyReference.cache
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.addzayavka.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.energosbyt.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exam.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Form1.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.jaloby.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Main.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Otchet.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Properties.Resources.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Sbyt.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCbyt.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCjaloby_obr.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCoper_zayavki.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCplanotkl.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpoiskumn.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCpredr.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCprom.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UCzayavka.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.UC_otchet_zayavki.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.updzayavka.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraForm1.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport1.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport2.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport3.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraReport4.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.zayavka_nulltp.resources
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.GenerateResource.Cache
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.licenses
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.config
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe.manifest
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.application
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\bin\Debug\DXApplication4.pdb
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.TrustInfo.xml
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.manifest
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.application
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe
+C:\MY\Call_center_proga\последний колл центр\DXApplication4\DXApplication4\obj\Debug\DXApplication4.pdb
